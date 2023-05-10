@@ -2,7 +2,7 @@
 
 ## Decodificador de Código - Alura e Oracle
 
-> Aplicação que criptografa textos, assim possibilitando a troca de mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
+Aplicação que criptografa textos, assim possibilitando a troca de mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 ### Criptografia
 As chaves de criptografias utilizadas são:
