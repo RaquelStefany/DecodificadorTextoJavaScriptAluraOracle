@@ -4,6 +4,8 @@
 
 Aplicação que criptografa textos, assim possibilitando a troca de mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
+![This is an image](/screen.png)
+
 ### Criptografia
 As chaves de criptografias utilizadas são:
 - A letra __"e"__ é convertida para __"enter"__
